@@ -56,7 +56,6 @@ Temporary Items
 # .idea/mongoSettings.xml
 
 ## vscode
-.vscode
 ## File-based project format:
 *.ipr
 *.iws
@@ -123,3 +122,6 @@ ADVANCED_IAM_DEVELOPMENT_PLAN.md
 /test/s3/iam/test-volume-data
 *.log
 weed-iam
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
